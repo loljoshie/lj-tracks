@@ -1,4 +1,4 @@
-![LJ TRACKS](https://user-images.githubusercontent.com/91661118/140833658-e435dded-7536-4a1a-8b51-24cb22a60629.png)
+![LJ TRACKS](https://user-images.githubusercontent.com/91661118/140845070-1b0a8ba3-b669-4d7e-b931-020a68510893.png)
 
 # lj-tracks
 lj-tracks collection of race tracks you can implement into your server
