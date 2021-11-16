@@ -6,7 +6,7 @@ lj-tracks collection of race tracks you can implement into your server
 # lj-hud used with QBCore Framework
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/loljoshie
+https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
 
 Just a few tracks I've made in the past by watching VODS from NoPixel community. More will be added overtime.
 
